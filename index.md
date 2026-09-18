@@ -51,3 +51,4 @@ macOS 14.0 以降／Apple シリコン・Intel の両方に対応。
 
 - [サポート・よくある質問]({{ site.baseurl }}/support/)
 - [プライバシーポリシー]({{ site.baseurl }}/privacy/)
+- [English]({{ site.baseurl }}/en/)
