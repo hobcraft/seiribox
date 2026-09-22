@@ -43,9 +43,10 @@ like “Name 2.pdf”.
 ### I was asked to choose a folder
 
 This appears the first time you switch on a feature that works on your Desktop,
-Pictures, Movies or Music folder. Only the folder you choose is used; nothing
-else is read. You are asked once per folder (for example, the two Pictures
-features share one choice).
+Pictures, Movies or Music folder, or one that moves files into such a folder
+(for example, videos to Movies). Only the folder you choose is used; nothing
+else is read or written. You are asked once per folder (for example, every
+feature that uses Movies shares one choice).
 
 ### It says access is not allowed
 

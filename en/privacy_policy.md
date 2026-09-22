@@ -6,7 +6,7 @@ permalink: /en/privacy/
 
 # SeiriBox Privacy Policy
 
-Last updated: September 18, 2026
+Last updated: September 22, 2026
 
 SeiriBox (“the app”) does not collect any personal information.
 
@@ -51,9 +51,10 @@ The app only accesses folders needed by the features you switch on.
 - Desktop, Pictures, Movies and Music: their contents are read only after you
   choose the folder yourself.
 
-As a result of tidying, files may be moved into your Movies or Music folder
-(for example, a downloaded video into Movies). The contents of folders you have
-not allowed are never read.
+Features that move files into your Movies or Music folder (for example, a
+downloaded video into Movies) also run only after you have chosen and allowed
+the destination folder yourself. Folders you have not allowed are never read
+or written to.
 
 ## Sharing with third parties
 
